@@ -4,3 +4,9 @@
 * gavin commit_a
 * gavin commit_b from feature branch
 * james commit_2
+* james commit_3
+* james commit_4
+* james commit_5
+* james commit_6
+* james commit_7
+* gavin_commit_c from feature_test
